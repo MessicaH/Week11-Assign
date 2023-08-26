@@ -1,0 +1,148 @@
+/* Customized code for elements on website */
+
+.heading-banner {
+    background-color: #0f5132;
+    color: white;
+    padding: 5px;
+  }
+  
+  .para-italics {
+    font-style: italic;
+    background-color: #4a5550;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  .para-footer {
+    background-color: #252424;
+    color: white;
+    font-size: smaller;
+    margin-top: 5px;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .ttt-grid {
+    border-style: groove;
+    border-radius: 5px;
+    border-color: 0f5132;
+    margin-bottom: 10px;
+    font-size: larger;
+  }
+  
+  .link-btn {
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  /*
+  .td-btn {
+    border-style: ridge;
+    border-width: 7px;
+    border-color: coral;
+  }
+  */
+  
+  #game-btn:hover {
+    background-color: darkred;
+    color: white;
+    border-style: none;
+  }
+  
+  /*
+  td:hover {
+    background-color: #052c65;
+    color: white;
+  }
+  */
+  
+  .game-board {
+    border-collapse: collapse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  .xo-mark {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+  }
+  
+  .x {
+    color: blue;
+    font-size: 80px;
+  }
+  
+  .o {
+    color: red;
+    font-size: 80px;
+  }
+  
+  .win {
+    background-color: black;
+    color: white;
+    border-style: double;
+    border-color: darkorchid;
+    border-width: 5px;
+  }
+  
+  #restart {
+    margin: 25px;
+    padding: 20px;
+  }
+  
+  #restart:hover {
+    background-color: darkred;
+    color: white;
+    border-style: none;
+  }
+
+.game-board {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+p, h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+}
+  
+.xo-mark {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+  }
+
+.x {
+    color: blue;
+    font-size: 80px;
+  }
+  
+.o {
+    color: red;
+    font-size: 80px;
+  }
+
+.win {
+    background-color: black;
+    color: white;
+    border-style: double;
+    border-color: darkorchid;
+    border-width: 5px;
+  }
+
+#restart {
+    margin: 48px 40%;
+    padding: 20px;
+  }
+
+  
